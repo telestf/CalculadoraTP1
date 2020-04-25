@@ -1,0 +1,13 @@
+C:\Users\Teles\Workspaces\vs-workspace\CalculadoraTP1\bin\Debug\netcoreapp3.1\CalculadoraTP1.exe
+C:\Users\Teles\Workspaces\vs-workspace\CalculadoraTP1\bin\Debug\netcoreapp3.1\CalculadoraTP1.deps.json
+C:\Users\Teles\Workspaces\vs-workspace\CalculadoraTP1\bin\Debug\netcoreapp3.1\CalculadoraTP1.runtimeconfig.json
+C:\Users\Teles\Workspaces\vs-workspace\CalculadoraTP1\bin\Debug\netcoreapp3.1\CalculadoraTP1.runtimeconfig.dev.json
+C:\Users\Teles\Workspaces\vs-workspace\CalculadoraTP1\bin\Debug\netcoreapp3.1\CalculadoraTP1.dll
+C:\Users\Teles\Workspaces\vs-workspace\CalculadoraTP1\bin\Debug\netcoreapp3.1\CalculadoraTP1.pdb
+C:\Users\Teles\Workspaces\vs-workspace\CalculadoraTP1\obj\Debug\netcoreapp3.1\CalculadoraTP1.csprojAssemblyReference.cache
+C:\Users\Teles\Workspaces\vs-workspace\CalculadoraTP1\obj\Debug\netcoreapp3.1\CalculadoraTP1.csproj.CoreCompileInputs.cache
+C:\Users\Teles\Workspaces\vs-workspace\CalculadoraTP1\obj\Debug\netcoreapp3.1\CalculadoraTP1.AssemblyInfoInputs.cache
+C:\Users\Teles\Workspaces\vs-workspace\CalculadoraTP1\obj\Debug\netcoreapp3.1\CalculadoraTP1.AssemblyInfo.cs
+C:\Users\Teles\Workspaces\vs-workspace\CalculadoraTP1\obj\Debug\netcoreapp3.1\CalculadoraTP1.dll
+C:\Users\Teles\Workspaces\vs-workspace\CalculadoraTP1\obj\Debug\netcoreapp3.1\CalculadoraTP1.pdb
+C:\Users\Teles\Workspaces\vs-workspace\CalculadoraTP1\obj\Debug\netcoreapp3.1\CalculadoraTP1.genruntimeconfig.cache
