@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace CalculadoraTP1
 {
@@ -29,7 +29,6 @@ namespace CalculadoraTP1
                         if (operacao != 0)
                         {
                             Console.Write("Insira o primeiro número: ");
-
                             float x = float.Parse(Console.ReadLine());
 
                             Console.Write("Insira o segundo número: ");
@@ -47,8 +46,18 @@ namespace CalculadoraTP1
                                     Console.WriteLine("Resultado: " + (x * y) + "\r\n");
                                     break;
                                 case 4:
-                                    Console.WriteLine("Resultado: " + (x / y) + "\r\n");
-                                    break;
+                                {
+                                    if (y != 0)
+                                    {
+                                        Console.WriteLine("Resultado: " + (x / y) + "\r\n");
+                                        break;
+                                    }
+                                    else
+                                    {
+                                        Console.WriteLine("Não é possível dividir por 0\r\n");
+                                        break;
+                                    }
+                                }                                 
                             }
                         }
                         else
