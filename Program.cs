@@ -30,10 +30,10 @@ namespace CalculadoraTP1
                         {
                             Console.Write("Insira o primeiro número: ");
 
-                            int x = int.Parse(Console.ReadLine());
+                            float x = float.Parse(Console.ReadLine());
 
                             Console.Write("Insira o segundo número: ");
-                            int y = int.Parse(Console.ReadLine());
+                            float y = float.Parse(Console.ReadLine());
 
                             switch (operacao)
                             {
